@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name">tuTraduccion</string>
+
+    <string name="action_settings">Configuración</string>
+
+    <string name="estado_soltero">Soltero</string>
+    <string name="estado_casado">Casado</string>
+    <string name="estado_viudo">Viudo</string>
+
+    <string name="etiqueta_estado_civil">Estado Civil</string>
+    <string name="boton_busqueda">Buscar</string>
+    <string-array name="estado_civil">
+        <item>@string/estado_soltero</item>
+        <item>@string/estado_casado</item>
+        <item>@string/estado_viudo</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">laTuaTraduzione</string>
+    <string name="action_settings">Configurazione</string>
+    <string name="etiqueta_estado_civil">Stato Civile</string>
+    <string name="boton_busqueda">Ricerca</string>
+    <string name="estado_soltero">Singolo</string>
+    <string name="estado_casado">Sposato</string>
+    <string name="estado_viudo">Vedovo</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yourTranslation</string>
+    <string name="action_settings">Settings</string>
+    <string name="etiqueta_estado_civil">Marital Status</string>
+    <string name="boton_busqueda">Search</string>
+    <string name="estado_soltero">Single</string>
+    <string name="estado_casado">Married</string>
+    <string name="estado_viudo">Widower</string>
+</resources>
